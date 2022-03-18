@@ -7,4 +7,4 @@ Para cualquier cosas Revisar mi Repositorio Actual, donde hay mas informacion. [
  Nos vemos por el codigo  😄
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kraker23&show_icons=true&theme=tokyonight&text_color=000000&locale=es&layout=compact" alt="kraker23" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianJRamirez&show_icons=true&theme=tokyonight&text_color=000000&locale=es&layout=compact" alt="CristianJRamirez" /></p>
